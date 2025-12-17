@@ -1,4 +1,4 @@
-local enabled = loadstring(game:HttpGet("https://raw.githubusercontent.com/jrjdkso/dev-jun/refs/heads/main/status.lua"))()
+local enabled = loadstring(game:HttpGet("https://raw.githubusercontent.com/jrjdkso/dev-jun/main/status.lua"))()
 if not enabled then
     return
 end
